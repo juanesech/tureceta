@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="{{ URL::asset('assets/vendor/font-awesome/css/font-awesome.min.css') }}">
 	<link rel="stylesheet" href="{{ URL::asset('assets/vendor/linearicons/style.css') }}">
 	<!-- MAIN CSS -->
-	<link rel="stylesheet" href="{{ URL::asset('assets/css/main.css') }}">
+	<link rel="stylesheet" href="assets/css/main.css">
 	<!-- GOOGLE FONTS -->
 	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet">
 	<!-- ICONS -->
