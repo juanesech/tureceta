@@ -34,11 +34,11 @@
 							<form class="form-auth-small" action="index.php">
 								<div class="form-group">
 									<label for="signin-email" class="control-label sr-only">Email</label>
-									<input type="email" class="form-control" id="signin-email" placeholder="Email">
+									<input type="email" class="form-control" id="signin-email" placeholder="Correo">
 								</div>
 								<div class="form-group">
 									<label for="signin-password" class="control-label sr-only">Password</label>
-									<input type="password" class="form-control" id="signin-password" placeholder="Password">
+									<input type="password" class="form-control" id="signin-password" placeholder="Contraseña">
 								</div>
 
 								<button type="submit" class="btn btn-primary btn-lg btn-block">Ingresar</button>
