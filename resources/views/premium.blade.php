@@ -85,7 +85,7 @@
                         <div class="panel panel-headline">
                             <div class="panel-heading">
                                 <h3 class="panel-title">Noticias</h3>
-                                <p class="panel-subtitle">Panel to display most important information</p>
+                                <p class="panel-subtitle"><iframe src="//rss.bloople.net/?url=http%3A%2F%2Fnutricionaldia.fullblog.com.ar%2F%3Frss%3D1&detail=50&showtitle=false&type=html"></iframe></p>
                             </div>
                             <div class="panel-body">
                                 <h4>Panel Content</h4>
