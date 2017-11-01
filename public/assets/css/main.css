@@ -48,6 +48,10 @@ body {
   font-size: 15px;
   color: #676a6d; }
 
+.lnr-home{
+    font-size: x-large;
+}
+
 a {
   color: #F59322; }
   a:hover, a:focus {
