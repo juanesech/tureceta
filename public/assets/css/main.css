@@ -32,8 +32,15 @@
  }
 
 html {
-  position: relative;
-  min-height: 100%; }
+    position: relative;
+    height: 100%;
+    height: auto;
+}
+
+iframe{
+  border-style: none;
+  width: 100%;
+}
 
 body {
   background-color: #F3F5F8;
