@@ -106,7 +106,7 @@
                                 </div>
                             </div>
                             <div class="panel-body">
-                                <p><ul>
+                                <p><ul id="tips">
                                     <li><strong>Sustituye lo frito por lo asado:</strong> Evita los alimentos fritos o que se cocinen con mucho aceite</li>
                                     <li><strong>Desayuna:</strong> Nunca olvides ingerir alimentos en la mañana</li>
                                     <li><strong>Recuerda la regla QQF (Calidad, cantidad y frecuencia):</strong> No existen alimentos malos</li>
