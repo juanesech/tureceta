@@ -84,8 +84,13 @@
                         <!-- PANEL HEADLINE -->
                         <div class="panel panel-headline">
                             <div class="panel-heading">
-                                <h3 class="panel-title">Noticias  h3>
+                                <h3 class="panel-title">Noticias</h3>
                                 <p class="panel-subtitle"></p>
+                            </div>
+                            <div class="panel-body">
+                                <p>
+                                    <script type="text/javascript" src="http://output82.rssinclude.com/output?type=js&amp;id=1160130&amp;hash=d267c0de97329f3f008208058637457e"></script>
+                                </p>
                             </div>
                         </div>
                         <!-- END PANEL HEADLINE -->
