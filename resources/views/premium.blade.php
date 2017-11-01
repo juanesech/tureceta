@@ -82,16 +82,6 @@
                 <div class="row">
                     <div class="col-md-8">
                         <!-- PANEL HEADLINE -->
-                        <div class="panel panel-headline">
-                            <div class="panel-heading">
-                                <h3 class="panel-title">Noticias</h3>
-                                <p class="panel-subtitle"></p>
-                            </div>
-                        </div>
-                        <!-- END PANEL HEADLINE -->
-                    </div>
-                    <div class="col-md-4">
-                        <!-- PANEL NO PADDING -->
                         <div class="panel">
                             <div class="panel-heading">
                                 <h3 class="panel-title">Noticias nutricionales</h3>
@@ -104,7 +94,7 @@
                                 <iframe class="main-content" src="//rss.bloople.net/?url=http%3A%2F%2Fnutricionaldia.fullblog.com.ar%2F%3Frss%3D1&detail=50&showtitle=false&type=html"></iframe>
                             </div>
                         </div>
-                        <!-- END PANEL NO PADDING -->
+                        <!-- END PANEL HEADLINE -->
                     </div>
                 </div>
                 <div class="row">
