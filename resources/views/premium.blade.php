@@ -87,9 +87,6 @@
                                 <h3 class="panel-title">Noticias</h3>
                                 <p class="panel-subtitle"></p>
                             </div>
-                            <div class="panel-body">
-                                <iframe class="main-content" src="//rss.bloople.net/?url=http%3A%2F%2Fnutricionaldia.fullblog.com.ar%2F%3Frss%3D1&detail=50&showtitle=false&type=html"></iframe>
-                            </div>
                         </div>
                         <!-- END PANEL HEADLINE -->
                     </div>
@@ -97,17 +94,14 @@
                         <!-- PANEL NO PADDING -->
                         <div class="panel">
                             <div class="panel-heading">
-                                <h3 class="panel-title">Panel No Padding</h3>
+                                <h3 class="panel-title">Noticias nutricionales</h3>
                                 <div class="right">
                                     <button type="button" class="btn-toggle-collapse"><i class="lnr lnr-chevron-up"></i></button>
                                     <button type="button" class="btn-remove"><i class="lnr lnr-cross"></i></button>
                                 </div>
                             </div>
-                            <div class="panel-body no-padding bg-primary text-center">
-                                <div class="padding-top-30 padding-bottom-30">
-                                    <i class="fa fa-thumbs-o-up fa-5x"></i>
-                                    <h3>No Content Padding</h3>
-                                </div>
+                            <div class="panel-body">
+                                <iframe class="main-content" src="//rss.bloople.net/?url=http%3A%2F%2Fnutricionaldia.fullblog.com.ar%2F%3Frss%3D1&detail=50&showtitle=false&type=html"></iframe>
                             </div>
                         </div>
                         <!-- END PANEL NO PADDING -->
@@ -115,20 +109,6 @@
                 </div>
                 <div class="row">
                     <div class="col-md-4">
-                        <!-- PANEL DEFAULT -->
-                        <div class="panel">
-                            <div class="panel-heading">
-                                <h3 class="panel-title">Panel Default</h3>
-                                <div class="right">
-                                    <button type="button" class="btn-toggle-collapse"><i class="lnr lnr-chevron-up"></i></button>
-                                    <button type="button" class="btn-remove"><i class="lnr lnr-cross"></i></button>
-                                </div>
-                            </div>
-                            <div class="panel-body">
-                                <p>Objectively network visionary methodologies via best-of-breed users. Phosfluorescently initiate go forward leadership skills before an expanded array of infomediaries. Monotonectally incubate web-enabled communities rather than process-centric.</p>
-                            </div>
-                        </div>
-                        <!-- END PANEL DEFAULT -->
                     </div>
                     <div class="col-md-4">
                         <!-- PANEL NO CONTROLS -->
