@@ -82,23 +82,45 @@
                 <div class="row">
                     <div class="col-md-8">
                         <!-- PANEL HEADLINE -->
+                        <div class="panel panel-headline">
+                            <div class="panel-heading">
+                                <h3 class="panel-title">Noticias  h3>
+                                <p class="panel-subtitle"></p>
+                            </div>
+                        </div>
+                        <!-- END PANEL HEADLINE -->
+                    </div>
+                    <div class="col-md-4">
+                        <!-- PANEL NO PADDING -->
                         <div class="panel">
                             <div class="panel-heading">
-                                <h3 class="panel-title">Noticias nutricionales</h3>
+                                <h3 class="panel-title">Tips saludables</h3>
                                 <div class="right">
                                     <button type="button" class="btn-toggle-collapse"><i class="lnr lnr-chevron-up"></i></button>
                                     <button type="button" class="btn-remove"><i class="lnr lnr-cross"></i></button>
                                 </div>
                             </div>
                             <div class="panel-body">
-                                <iframe class="main-content" src="//rss.bloople.net/?url=http%3A%2F%2Fnutricionaldia.fullblog.com.ar%2F%3Frss%3D1&detail=50&showtitle=false&type=html"></iframe>
+                                <p><ul>
+                                    <li><strong>Sustituye lo frito por lo asado:</strong> Evita los alimentos fritos o que se cocinen con mucho aceite</li>
+                                    <li><strong>Desayuna:</strong> Nunca olvides ingerir alimentos en la mañana</li>
+                                    <li><strong>Recuerda la regla QQF (Calidad, cantidad y frecuencia):</strong> No existen alimentos malos</li>
+                                    <li><strong>Plato colorido:</strong> Incluye la mayor cantidad de los colores del arcoíris en tu alimentación saludable</li>
+                                    <li><strong>Come pescado:</strong> Incluye salmón, sardina y atún fresco en tus alimentos</li>
+                                </ul></p>
+                            </div>
+                            <div class="panel-footer">
+                                <h5>Panel Footer</h5>
                             </div>
                         </div>
-                        <!-- END PANEL HEADLINE -->
+                        <!-- END PANEL NO PADDING -->
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-4">
+                        <!-- PANEL DEFAULT -->
+
+                        <!-- END PANEL DEFAULT -->
                     </div>
                     <div class="col-md-4">
                         <!-- PANEL NO CONTROLS -->
@@ -114,21 +136,6 @@
                     </div>
                     <div class="col-md-4">
                         <!-- PANEL WITH FOOTER -->
-                        <div class="panel">
-                            <div class="panel-heading">
-                                <h3 class="panel-title">Panel With Footer</h3>
-                                <div class="right">
-                                    <button type="button" class="btn-toggle-collapse"><i class="lnr lnr-chevron-up"></i></button>
-                                    <button type="button" class="btn-remove"><i class="lnr lnr-cross"></i></button>
-                                </div>
-                            </div>
-                            <div class="panel-body">
-                                <p>Objectively network visionary methodologies via best-of-breed users. Phosfluorescently initiate go forward leadership skills before an expanded array.</p>
-                            </div>
-                            <div class="panel-footer">
-                                <h5>Panel Footer</h5>
-                            </div>
-                        </div>
                         <!-- END PANEL WITH FOOTER -->
                     </div>
                 </div>
