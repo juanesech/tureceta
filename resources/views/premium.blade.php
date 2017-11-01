@@ -88,7 +88,8 @@
                                 <p class="panel-subtitle"></p>
                             </div>
                             <div class="panel-body">
-                                <iframe class="main-content" src="//rss.bloople.net/?url=http%3A%2F%2Fnutricionaldia.fullblog.com.ar%2F%3Frss%3D1&detail=50&showtitle=false&type=html"></iframe>                            </div>
+                                <iframe class="main-content" src="//rss.bloople.net/?url=http%3A%2F%2Fnutricionaldia.fullblog.com.ar%2F%3Frss%3D1&detail=50&showtitle=false&type=html"></iframe>
+                            </div>
                         </div>
                         <!-- END PANEL HEADLINE -->
                     </div>

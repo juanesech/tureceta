@@ -42,7 +42,7 @@ iframe{
   width: 100%;
 }
 
-body {
+body, .feed-title {
   background-color: #F3F5F8;
   font-family: "Source Sans Pro", sans-serif;
   font-size: 15px;
@@ -51,6 +51,7 @@ body {
 .lnr-home{
     font-size: x-large;
 }
+
 
 a {
   color: #F59322; }
@@ -387,6 +388,7 @@ ul.notifications > li {
 .sidebar {
   z-index: 9; }
   .sidebar .nav > li > a {
+      margin-top: 10%;
     padding: 18px 30px;
     color: #AEB7C2;
     border-left: 5px solid transparent; }
@@ -430,8 +432,9 @@ ul.notifications > li {
     /* submenu */ }
     .sidebar .nav i {
       margin-right: 10px;
-      font-size: 18px; }
+      font-size: x-large; }
     .sidebar .nav span {
+        font-size: x-large;
       -webkit-transition: all 0.3s ease-in-out;
       -moz-transition: all 0.3s ease-in-out;
       -ms-transition: all 0.3s ease-in-out;
