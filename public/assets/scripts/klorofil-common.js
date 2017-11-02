@@ -4,7 +4,7 @@ $(document).ready(function() {
 	/*	TOP NAVIGATION AND LAYOUT
 	/*----------------------------------*/
 
-	var feed = document.getElementById(newsFeed);
+	var feed = document.getElementById('newsFeed');
 	$('feed').toggle();
 
 
