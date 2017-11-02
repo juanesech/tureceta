@@ -5,7 +5,7 @@ $(document).ready(function() {
 	/*----------------------------------*/
 
 	var feed = document.getElementById(newsFeed);
-	$(feed).toggle();
+	$('feed').toggle();
 
 
 	$('.btn-toggle-fullwidth').on('click', function() {

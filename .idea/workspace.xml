@@ -4,7 +4,6 @@
     <list default="true" id="7297852c-aad4-4615-8096-3fe26ca60e83" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/scripts/klorofil-common.js" afterPath="$PROJECT_DIR$/public/assets/scripts/klorofil-common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/premium.blade.php" afterPath="$PROJECT_DIR$/resources/views/premium.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="klorofil-common.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/assets/scripts/klorofil-common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="67" lean-forward="true" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
+            <state relative-caret-position="186">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -303,7 +302,7 @@
       <updated>1509470102490</updated>
       <workItem from="1509470103708" duration="7548000" />
       <workItem from="1509584431184" duration="305000" />
-      <workItem from="1509643090206" duration="1625000" />
+      <workItem from="1509643090206" duration="1745000" />
     </task>
     <task id="LOCAL-00001" summary="Arreglo de estilos">
       <created>1509470762706</created>
@@ -459,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509644434518</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Premium: feed de noticias toggle">
+      <created>1509644866171</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1509644866171</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9478000" />
+    <option name="totallyTimeSpent" value="9598000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -528,7 +534,8 @@
     <MESSAGE value="Premium: Tips saludables" />
     <MESSAGE value="Premium: Tips padding tips" />
     <MESSAGE value="Premium: feed de noticias" />
-    <option name="LAST_COMMIT_MESSAGE" value="Premium: feed de noticias" />
+    <MESSAGE value="Premium: feed de noticias toggle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Premium: feed de noticias toggle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -680,8 +687,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/scripts/klorofil-common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="67" lean-forward="true" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
+        <state relative-caret-position="186">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding />
         </state>
       </provider>
