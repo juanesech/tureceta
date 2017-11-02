@@ -17,6 +17,15 @@
  ********************/
 
 
+.feed-title{
+  margin-bottom: 2%;
+}
+
+.feed-title:hover{
+  color: #0b5b97;
+  margin: 7px;
+}
+
 #tips li{
     padding-bottom: 4px;
 }

@@ -100,7 +100,6 @@
                         <!-- END PANEL HEADLINE -->
                     </div>
                     <div class="col-md-4">
-                        <!-- PANEL NO PADDING -->
                         <div class="panel">
                             <div class="panel-heading">
                                 <h3 class="panel-title">Tips saludables</h3>
@@ -118,11 +117,7 @@
                                     <li><strong>Come pescado:</strong> Incluye salmón, sardina y atún fresco en tus alimentos</li>
                                 </ul></p>
                             </div>
-                            <div class="panel-footer">
-                                <h5>Panel Footer</h5>
-                            </div>
                         </div>
-                        <!-- END PANEL NO PADDING -->
                     </div>
                 </div>
                 <div class="row">
