@@ -91,8 +91,8 @@
                                 </div>
                                 <p class="panel-subtitle">Las mejores y mas importantes noticias acerca de nutrición y salud</p>
                             </div>
-                            <div class="panel-body" id="newsFeed">
-                                <p>
+                            <div class="panel-body">
+                                <p id="newsFeed">
                                     <script src="https://rss.bloople.net/?url=http%3A%2F%2Fnutricionaldia.fullblog.com.ar%2F%3Frss%3D1&showtitle=false&type=js"></script>
                                 </p>
                             </div>
@@ -135,13 +135,6 @@
                             <div class="panel-body">
                                 <p>Objectively network visionary methodologies via best-of-breed users. Phosfluorescently initiate go forward leadership skills before an expanded array of infomediaries. Monotonectally incubate web-enabled communities rather than process-centric.</p>
                             </div>
-                        </div>
-                        <!-- END PANEL NO CONTROLS -->
-                    </div>
-                    <div class="col-md-4">
-                        <!-- PANEL WITH FOOTER -->
-                        <!-- END PANEL WITH FOOTER -->
-                    </div>
                 </div>
             </div>
         </div>
