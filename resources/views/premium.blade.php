@@ -89,7 +89,7 @@
                             </div>
                             <div class="panel-body">
                                 <p>
-                                    <script type="text/javascript" src="http://output82.rssinclude.com/output?type=js&amp;id=1160130&amp;hash=d267c0de97329f3f008208058637457e"></script>
+                                    <script src="https://rss.bloople.net/?url=http%3A%2F%2Fnutricionaldia.fullblog.com.ar%2F%3Frss%3D1&showtitle=false&type=js"></script>
                                 </p>
                             </div>
                         </div>
