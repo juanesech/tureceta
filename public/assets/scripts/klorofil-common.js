@@ -4,6 +4,10 @@ $(document).ready(function() {
 	/*	TOP NAVIGATION AND LAYOUT
 	/*----------------------------------*/
 
+	var feed = document.getElementById(newsFeed);
+	$(feed).toggle();
+
+
 	$('.btn-toggle-fullwidth').on('click', function() {
 		if(!$('body').hasClass('layout-fullwidth')) {
 			$('body').addClass('layout-fullwidth');

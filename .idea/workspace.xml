@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7297852c-aad4-4615-8096-3fe26ca60e83" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/main.css" afterPath="$PROJECT_DIR$/public/assets/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/scripts/klorofil-common.js" afterPath="$PROJECT_DIR$/public/assets/scripts/klorofil-common.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/premium.blade.php" afterPath="$PROJECT_DIR$/resources/views/premium.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,18 +29,28 @@
       <file leaf-file-name="premium.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/premium.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="101" column="42" lean-forward="false" selection-start-line="101" selection-start-column="42" selection-end-line="101" selection-end-column="42" />
+            <state relative-caret-position="359">
+              <caret line="93" column="64" lean-forward="false" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
               <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="klorofil-common.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/assets/scripts/klorofil-common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="67" lean-forward="true" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -72,13 +82,14 @@
     <findStrings>
       <find>-bg</find>
       <find>ema</find>
-      <find>noticias</find>
       <find>panel-body</find>
       <find>notici</find>
       <find>panel with</find>
       <find>tips</find>
       <find>home</find>
       <find>cursor</find>
+      <find>noticias</find>
+      <find>toggle</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -94,8 +105,9 @@
       <list>
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/login.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/premium.blade.php" />
         <option value="$PROJECT_DIR$/public/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/resources/views/premium.blade.php" />
+        <option value="$PROJECT_DIR$/public/assets/scripts/klorofil-common.js" />
       </list>
     </option>
   </component>
@@ -138,6 +150,24 @@
             <path>
               <item name="tureceta" type="b2602c69:ProjectViewProjectNode" />
               <item name="tureceta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tureceta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tureceta" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tureceta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tureceta" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tureceta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tureceta" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tureceta" type="b2602c69:ProjectViewProjectNode" />
@@ -273,7 +303,7 @@
       <updated>1509470102490</updated>
       <workItem from="1509470103708" duration="7548000" />
       <workItem from="1509584431184" duration="305000" />
-      <workItem from="1509643090206" duration="1199000" />
+      <workItem from="1509643090206" duration="1625000" />
     </task>
     <task id="LOCAL-00001" summary="Arreglo de estilos">
       <created>1509470762706</created>
@@ -422,11 +452,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509643530046</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Premium: feed de noticias">
+      <created>1509644434518</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1509644434518</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9052000" />
+    <option name="totallyTimeSpent" value="9478000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -625,18 +662,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/premium.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="101" column="42" lean-forward="false" selection-start-line="101" selection-start-column="42" selection-end-line="101" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/premium.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="93" column="64" lean-forward="false" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/scripts/klorofil-common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="67" lean-forward="true" selection-start-line="38" selection-start-column="67" selection-end-line="38" selection-end-column="67" />
           <folding />
         </state>
       </provider>

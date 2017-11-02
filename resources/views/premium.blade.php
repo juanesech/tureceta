@@ -83,7 +83,7 @@
                     <div class="col-md-8">
                         <!-- PANEL HEADLINE -->
                         <div class="panel panel-headline">
-                            <div class="panel-heading">
+                            <div class="panel-heading" >
                                 <h3 class="panel-title">Noticias</h3>
                                 <div class="right">
                                     <button type="button" class="btn-toggle-collapse"><i class="lnr lnr-chevron-up"></i></button>
@@ -91,7 +91,7 @@
                                 </div>
                                 <p class="panel-subtitle">Las mejores y mas importantes noticias acerca de nutrición y salud</p>
                             </div>
-                            <div class="panel-body">
+                            <div class="panel-body" id="newsFeed">
                                 <p>
                                     <script src="https://rss.bloople.net/?url=http%3A%2F%2Fnutricionaldia.fullblog.com.ar%2F%3Frss%3D1&showtitle=false&type=js"></script>
                                 </p>
