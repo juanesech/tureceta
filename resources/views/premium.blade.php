@@ -84,7 +84,7 @@
                         <!-- PANEL HEADLINE -->
                         <div class="panel panel-headline">
                             <div class="panel-heading" >
-                                <h3 class="panel-title">Noticias</h3>
+                                <h3 class="panel-title" id="panel-scrolling-demo">Noticias</h3>
                                 <div class="right">
                                     <button type="button" class="btn-toggle-collapse"><i class="lnr lnr-chevron-up"></i></button>
                                     <button type="button" class="btn-remove"><i class="lnr lnr-cross"></i></button>
@@ -141,22 +141,6 @@
                     <div class="col-md-4">
                         <!-- PANEL WITH FOOTER -->
                         <!-- END PANEL WITH FOOTER -->
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4">
-                        <!-- PANEL SCROLLING -->
-                        <div id="panel-scrolling-demo" class="panel">
-                            <div class="panel-heading">
-                                <h3 class="panel-title">Panel Scrolling</h3>
-                            </div>
-                            <div class="panel-body">
-                                <p>Objectively network visionary methodologies via best-of-breed users. Phosfluorescently initiate go forward leadership skills before an expanded array of infomediaries. Monotonectally incubate web-enabled communities rather than process-centric.</p>
-                                <p>Objectively network visionary methodologies via best-of-breed users. Phosfluorescently initiate go forward leadership skills before an expanded array of infomediaries. Monotonectally incubate web-enabled communities rather than process-centric.</p>
-                                <p>Objectively network visionary methodologies via best-of-breed users. Phosfluorescently initiate go forward leadership skills before an expanded array of infomediaries. Monotonectally incubate web-enabled communities rather than process-centric.</p>
-                            </div>
-                        </div>
-                        <!-- END PANEL SCROLLING -->
                     </div>
                 </div>
             </div>
