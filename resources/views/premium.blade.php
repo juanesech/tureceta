@@ -77,6 +77,7 @@
     <!-- MAIN -->
     <div class="main">
         <!-- MAIN CONTENT -->
+        <h3 class="page-title">Bienvenido a TuReceta Premium</h3>
         <div class="row">
             <!-- PANEL DEFAULT -->
             <div class="col-md-4" id="tutorials">
@@ -114,7 +115,6 @@
         </div>
         <div class="main-content">
             <div class="container-fluid">
-                <h3 class="page-title">Bienvenido a TuReceta Premium</h3>
                 <div class="row">
                     <div class="col-md-8">
                         <!-- PANEL HEADLINE -->
