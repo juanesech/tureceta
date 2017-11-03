@@ -82,8 +82,8 @@
             <div class="col-md-4" id="tutorials">
                 <!-- PANEL NO CONTROLS -->
                 <div class="panel">
-                    <h3 class="page-title">Bienvenido a TuReceta Premium</h3>
                     <div class="panel-heading">
+                        <h3 class="page-title">Bienvenido a TuReceta Premium</h3>
                         <h3 class="panel-title">Video Tutoriales</h3>
                     </div>
                     <div class="panel-body">
