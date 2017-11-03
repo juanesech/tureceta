@@ -135,8 +135,9 @@
                                 <h3 class="panel-title">Video Tutoriales</h3>
                             </div>
                             <div class="panel-body">
-
-                                        <ul class="amazingslider-slides" style="display:block;">
+                                <div id="amazingslider-wrapper-1" style="display:block;position:relative;max-width:900px;margin:0px auto 0px;">
+                                    <div id="amazingslider-1" style="display:block;position:relative;margin:0 auto;">
+                                        <ul class="amazingslider-slides" style="display:none;">
                                             <li><img src="assets/img/pGx9w2GJ_mc.jpg" alt="Pollo"  title="Pollo" />
                                                 <video preload="none" src="https://www.youtube.com/embed/pGx9w2GJ_mc?v=pGx9w2GJ_mc" ></video>
                                             </li>
@@ -153,6 +154,9 @@
                                                 <video preload="none" src="https://www.youtube.com/embed/rUs6uLZ_4KM?v=rUs6uLZ_4KM" ></video>
                                             </li>
                                         </ul>
+                                        <div class="amazingslider-engine"><a href="http://amazingslider.com" title="jQuery Slideshow">jQuery Slideshow</a></div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
