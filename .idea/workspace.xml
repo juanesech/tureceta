@@ -19,8 +19,8 @@
       <file leaf-file-name="premium.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/premium.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="79" column="65" lean-forward="false" selection-start-line="79" selection-start-column="65" selection-end-line="79" selection-end-column="65" />
+            <state relative-caret-position="444">
+              <caret line="81" column="69" lean-forward="false" selection-start-line="81" selection-start-column="69" selection-end-line="81" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -366,7 +366,7 @@
       <updated>1509470102490</updated>
       <workItem from="1509470103708" duration="7548000" />
       <workItem from="1509584431184" duration="305000" />
-      <workItem from="1509643090206" duration="8755000" />
+      <workItem from="1509643090206" duration="8843000" />
     </task>
     <task id="LOCAL-00001" summary="Arreglo de estilos">
       <created>1509470762706</created>
@@ -669,11 +669,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509752995169</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Premium: videos">
+      <created>1509753211289</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1509753211289</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16608000" />
+    <option name="totallyTimeSpent" value="16696000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -959,8 +966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/premium.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="79" column="65" lean-forward="false" selection-start-line="79" selection-start-column="65" selection-end-line="79" selection-end-column="65" />
+        <state relative-caret-position="444">
+          <caret line="81" column="69" lean-forward="false" selection-start-line="81" selection-start-column="69" selection-end-line="81" selection-end-column="69" />
           <folding />
         </state>
       </provider>

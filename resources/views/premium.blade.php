@@ -77,9 +77,9 @@
     <!-- MAIN -->
     <div class="main">
         <!-- MAIN CONTENT -->
-        <h3 class="page-title">Bienvenido a TuReceta Premium</h3>
         <div class="row">
             <!-- PANEL DEFAULT -->
+            <h3 class="page-title">Bienvenido a TuReceta Premium</h3>
             <div class="col-md-4" id="tutorials">
                 <!-- PANEL NO CONTROLS -->
                 <div class="panel">
