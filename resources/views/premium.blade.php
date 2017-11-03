@@ -80,9 +80,9 @@
         <div class="row">
             <!-- PANEL DEFAULT -->
             <div class="col-md-4" id="tutorials">
-                <h3 class="page-title">Bienvenido a TuReceta Premium</h3>
                 <!-- PANEL NO CONTROLS -->
                 <div class="panel">
+                    <h3 class="page-title">Bienvenido a TuReceta Premium</h3>
                     <div class="panel-heading">
                         <h3 class="panel-title">Video Tutoriales</h3>
                     </div>
