@@ -136,7 +136,7 @@
                             </div>
                             <div class="panel-body">
 
-                                        <ul class="amazingslider-slides" style="display:none;">
+                                        <ul class="amazingslider-slides" style="display:block;">
                                             <li><img src="assets/img/pGx9w2GJ_mc.jpg" alt="Pollo"  title="Pollo" />
                                                 <video preload="none" src="https://www.youtube.com/embed/pGx9w2GJ_mc?v=pGx9w2GJ_mc" ></video>
                                             </li>
