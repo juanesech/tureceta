@@ -26,21 +26,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="premium.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="premium.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/premium.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="124" column="59" lean-forward="false" selection-start-line="124" selection-start-column="50" selection-end-line="124" selection-end-column="59" />
-              <folding />
+            <state relative-caret-position="482">
+              <caret line="158" column="42" lean-forward="false" selection-start-line="158" selection-start-column="42" selection-end-line="158" selection-end-column="42" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            <state relative-caret-position="300">
+              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -89,8 +93,8 @@
       <find>home</find>
       <find>toggle</find>
       <find>cursor</find>
-      <find>panel-scrolling-demo</find>
       <find>noticias</find>
+      <find>panel-scrolling-demo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -111,8 +115,8 @@
         <option value="$PROJECT_DIR$/public/assets/scripts/klorofil-common.js" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
-        <option value="$PROJECT_DIR$/resources/views/premium.blade.php" />
         <option value="$PROJECT_DIR$/public/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/resources/views/premium.blade.php" />
       </list>
     </option>
   </component>
@@ -160,6 +164,19 @@
               <item name="tureceta" type="b2602c69:ProjectViewProjectNode" />
               <item name="tureceta" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tureceta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tureceta" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tureceta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tureceta" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tureceta" type="b2602c69:ProjectViewProjectNode" />
@@ -295,7 +312,7 @@
       <updated>1509470102490</updated>
       <workItem from="1509470103708" duration="7548000" />
       <workItem from="1509584431184" duration="305000" />
-      <workItem from="1509643090206" duration="3722000" />
+      <workItem from="1509643090206" duration="4363000" />
     </task>
     <task id="LOCAL-00001" summary="Arreglo de estilos">
       <created>1509470762706</created>
@@ -514,11 +531,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509730021847</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Premium: Div videos">
+      <created>1509730220821</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1509730220821</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11575000" />
+    <option name="totallyTimeSpent" value="12216000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -584,7 +608,8 @@
     <MESSAGE value="Premium: Tips padding tips" />
     <MESSAGE value="Premium: feed de noticias" />
     <MESSAGE value="Premium: feed de noticias toggle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Premium: feed de noticias toggle" />
+    <MESSAGE value="Premium: Div videos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Premium: Div videos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -627,7 +652,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
           <caret line="91" column="55" lean-forward="false" selection-start-line="91" selection-start-column="55" selection-end-line="91" selection-end-column="55" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -643,7 +672,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
           <caret line="91" column="36" lean-forward="false" selection-start-line="91" selection-start-column="36" selection-end-line="91" selection-end-column="36" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -740,19 +773,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/premium.blade.php">
+    <entry file="file://$PROJECT_DIR$/public/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="124" column="59" lean-forward="false" selection-start-line="124" selection-start-column="50" selection-end-line="124" selection-end-column="59" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/resources/views/premium.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="482">
+          <caret line="158" column="42" lean-forward="false" selection-start-line="158" selection-start-column="42" selection-end-line="158" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
