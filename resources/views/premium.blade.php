@@ -121,7 +121,6 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-4">
                         <!-- PANEL DEFAULT -->
                         <div class="col-md-4">
                             <!-- PANEL NO CONTROLS -->
@@ -137,7 +136,6 @@
                     </div>
         </div>
         <!-- END MAIN CONTENT -->
-    </div>
     <!-- END MAIN -->
     <div class="clearfix"></div>
     <footer>
