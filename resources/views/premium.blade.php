@@ -122,7 +122,7 @@
                 </div>
                 <div class="row">
                         <!-- PANEL DEFAULT -->
-                        <div class="col-md-4">
+                        <div class="col-md-4" id="tutorials">
                             <!-- PANEL NO CONTROLS -->
                             <div class="panel">
                                 <div class="panel-heading">

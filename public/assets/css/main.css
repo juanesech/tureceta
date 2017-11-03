@@ -16,6 +16,9 @@
  * GENERAL STYLES
  ********************/
 
+#tutorials{
+  width: 90%;
+}
 
 .feed-title{
   margin-bottom: 2%;
