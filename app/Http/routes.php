@@ -22,3 +22,7 @@ Route::get('/login', function () {
 Route::get('/premium', function () {
     return view('premium');
 });
+
+Route::get('/video', function () {
+    return view('video');
+});
