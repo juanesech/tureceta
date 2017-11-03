@@ -17,11 +17,6 @@
     <!-- ICONS -->
     <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
     <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon.png">
-    <!-- Video -->
-    <script src="assets/scripts/jquery.js"></script>
-    <script src="assets/scripts/amazingslider.js"></script>
-    <link rel="stylesheet" type="text/css" href="assets/scripts/amazingslider-1.css">
-    <script src="assets/scripts/initslider-1.js"></script>
 
 </head>
 
@@ -180,6 +175,11 @@
     <script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/vendor/jquery-slimscroll/jquery.slimscroll.min.js"></script>
     <script src="assets/scripts/klorofil-common.js"></script>
+    <!-- Video -->
+    <script src="assets/scripts/jquery.js"></script>
+    <script src="assets/scripts/amazingslider.js"></script>
+    <link rel="stylesheet" type="text/css" href="assets/scripts/amazingslider-1.css">
+    <script src="assets/scripts/initslider-1.js"></script>
 </body>
 
 </html>
