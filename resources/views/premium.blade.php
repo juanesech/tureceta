@@ -176,7 +176,7 @@
     <script src="assets/vendor/jquery-slimscroll/jquery.slimscroll.min.js"></script>
     <script src="assets/scripts/klorofil-common.js"></script>
     <!-- Video -->
-    <script src="assets/scripts/jquery.js"></script>
+
     <script src="assets/scripts/amazingslider.js"></script>
     <link rel="stylesheet" type="text/css" href="assets/scripts/amazingslider-1.css">
     <script src="assets/scripts/initslider-1.js"></script>
