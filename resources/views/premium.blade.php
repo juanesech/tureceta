@@ -123,20 +123,18 @@
                 <div class="row">
                     <div class="col-md-4">
                         <!-- PANEL DEFAULT -->
-
-                        <!-- END PANEL DEFAULT -->
+                        <div class="col-md-4">
+                            <!-- PANEL NO CONTROLS -->
+                            <div class="panel">
+                                <div class="panel-heading">
+                                    <h3 class="panel-title">Panel No Right Controls</h3>
+                                </div>
+                                <div class="panel-body">
+                                    <p>Objectively network visionary methodologies via best-of-breed users. Phosfluorescently initiate go forward leadership skills before an expanded array of infomediaries. Monotonectally incubate web-enabled communities rather than process-centric.</p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-md-4">
-                        <!-- PANEL NO CONTROLS -->
-                        <div class="panel">
-                            <div class="panel-heading">
-                                <h3 class="panel-title">Panel No Right Controls</h3>
-                            </div>
-                            <div class="panel-body">
-                                <p>Objectively network visionary methodologies via best-of-breed users. Phosfluorescently initiate go forward leadership skills before an expanded array of infomediaries. Monotonectally incubate web-enabled communities rather than process-centric.</p>
-                            </div>
-                </div>
-            </div>
         </div>
         <!-- END MAIN CONTENT -->
     </div>
