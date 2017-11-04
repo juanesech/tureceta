@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7297852c-aad4-4615-8096-3fe26ca60e83" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/main.css" afterPath="$PROJECT_DIR$/public/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/scripts/initslider-1.js" afterPath="$PROJECT_DIR$/public/assets/scripts/initslider-1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/registro.blade.php" afterPath="$PROJECT_DIR$/resources/views/registro.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registro.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="registro.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/registro.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="590">
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="64" column="2" lean-forward="true" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
+            <state relative-caret-position="290">
+              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -86,8 +86,8 @@
       <find>display:</find>
       <find>signin-email</find>
       <find>panel-scrolling-demo</find>
-      <find>auth</find>
       <find>inline-block</find>
+      <find>auth</find>
     </findStrings>
     <replaceStrings>
       <replace>/home</replace>
@@ -113,8 +113,8 @@
         <option value="$PROJECT_DIR$/resources/views/premium.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/login.blade.php" />
-        <option value="$PROJECT_DIR$/public/assets/css/main.css" />
         <option value="$PROJECT_DIR$/resources/views/registro.blade.php" />
+        <option value="$PROJECT_DIR$/public/assets/css/main.css" />
       </list>
     </option>
   </component>
@@ -314,14 +314,7 @@
       <updated>1509470102490</updated>
       <workItem from="1509470103708" duration="7548000" />
       <workItem from="1509584431184" duration="305000" />
-      <workItem from="1509643090206" duration="12640000" />
-    </task>
-    <task id="LOCAL-00011" summary="Premium: Noticias">
-      <created>1509556579536</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1509556579536</updated>
+      <workItem from="1509643090206" duration="13046000" />
     </task>
     <task id="LOCAL-00012" summary="Premium: Noticias, estilos">
       <created>1509556899249</created>
@@ -659,11 +652,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509762207693</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Premium: videos">
+      <created>1509762581297</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1509762581297</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20493000" />
+    <option name="totallyTimeSpent" value="20899000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -947,18 +947,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="64" column="2" lean-forward="true" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/registro.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
           <caret line="54" column="44" lean-forward="true" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
           <folding />
         </state>
       </provider>
