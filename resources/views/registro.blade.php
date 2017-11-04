@@ -55,10 +55,7 @@
                             <button type="submit" class="btn btn-primary btn-lg btn-block">Registrarse</button>
 
                         </form>
-                        <br>
-                        <br>
-                        <br>
-                        <a href="/login">Iniciar sesión</a>
+                        <a id="login-registro" href="/login">Iniciar sesión</a>
                     </div>
                 </div>
                 <div class="clearfix"></div>
