@@ -16,6 +16,10 @@
  * GENERAL STYLES
  ********************/
 
+#contenido-registro{
+  margin-bottom: 8%;
+}
+
 #loginHeaderLogo{
   width: 90%;
 }

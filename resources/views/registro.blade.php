@@ -26,7 +26,7 @@
         <div class="vertical-align-middle">
             <div class="auth-box " id="div-registro">
                 <div class="left" id="mainRegistro">
-                    <div class="content">
+                    <div class="content" id="contenido-registro">
                         <div class="header">
                             <div class="logo"><img id="registroHeaderLogo" src="assets/img/letras.png" alt="Klorofil Logo"></div>
                             <p class="lead">Dejanos conocerte</p>
