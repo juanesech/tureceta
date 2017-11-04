@@ -24,14 +24,14 @@
 <div id="wrapper">
     <div class="vertical-align-wrap">
         <div class="vertical-align-middle">
-            <div class="auth-box ">
+            <div class="auth-box " id="div-registro">
                 <div class="left" id="mainRegistro">
                     <div class="content">
                         <div class="header">
                             <div class="logo"><img id="registroHeaderLogo" src="assets/img/letras.png" alt="Klorofil Logo"></div>
                             <p class="lead">Dejanos conocerte</p>
                         </div>
-                        <form class="form-auth-small" action="index.php">
+                        <form class="form-auth-small" id="registro" action="/registrar">
                             <div class="form-group">
                                 <label for="signin-email" class="control-label sr-only">Nombre</label>
                                 <input type="email" class="form-control" id="reg-nombre" placeholder="Nombre">
@@ -55,6 +55,8 @@
                             <button type="submit" class="btn btn-primary btn-lg btn-block">Registrarse</button>
 
                         </form>
+                        <br>
+                        <br>
                         <br>
                         <a href="/login">Iniciar sesión</a>
                     </div>

@@ -30,8 +30,8 @@
       <file leaf-file-name="registro.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/registro.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="53" column="34" lean-forward="false" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+            <state relative-caret-position="337">
+              <caret line="33" column="88" lean-forward="true" selection-start-line="33" selection-start-column="88" selection-end-line="33" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -40,8 +40,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="420">
+              <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -87,6 +87,8 @@
       <find>left</find>
       <find>display:</find>
       <find>signin-email</find>
+      <find>auth</find>
+      <find>inline-block</find>
     </findStrings>
     <replaceStrings>
       <replace>/home</replace>
@@ -313,14 +315,7 @@
       <updated>1509470102490</updated>
       <workItem from="1509470103708" duration="7548000" />
       <workItem from="1509584431184" duration="305000" />
-      <workItem from="1509643090206" duration="10917000" />
-    </task>
-    <task id="LOCAL-00002" summary="Placeholder en login">
-      <created>1509470968807</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1509470968807</updated>
+      <workItem from="1509643090206" duration="11527000" />
     </task>
     <task id="LOCAL-00003" summary="Adición de vista premium">
       <created>1509471374785</created>
@@ -658,11 +653,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509760088570</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Premium: videos">
+      <created>1509760771711</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1509760771711</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18770000" />
+    <option name="totallyTimeSpent" value="19380000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -893,7 +895,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -922,14 +924,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/premium.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
@@ -954,10 +948,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/registro.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="53" column="34" lean-forward="false" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+        <state relative-caret-position="337">
+          <caret line="33" column="88" lean-forward="true" selection-start-line="33" selection-start-column="88" selection-end-line="33" selection-end-column="88" />
           <folding />
         </state>
       </provider>

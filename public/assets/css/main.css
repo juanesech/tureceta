@@ -16,19 +16,23 @@
  * GENERAL STYLES
  ********************/
 
-#registro-email, registro-password{
-  width: 20%;
+#div-registro{
+  height: auto;
 }
 
-#mainRegistro{
-  width: 100%;
+#registro{
+  display: inline-block;
+}
+
+#registro-email, registro-password{
+  width: 20%;
 }
 
 #registroHeaderLogo{
   width: 40%;
 }
 
-#tutorials{
+#tutorials, #mainRegistro{
   width: 100%;
 }
 
