@@ -34,11 +34,11 @@
                         <form class="form-auth-small" id="registro" action="/registrar">
                             <div class="form-group">
                                 <label for="signin-email" class="control-label sr-only">Nombre</label>
-                                <input type="email" class="form-control" id="reg-nombre" placeholder="Nombre">
+                                <input type="text" class="form-control" id="reg-nombre" placeholder="Nombre">
                             </div>
                             <div class="form-group">
                                 <label for="signin-email" class="control-label sr-only">Apellido</label>
-                                <input type="email" class="form-control" id="reg-apellido" placeholder="Apellido">
+                                <input type="text" class="form-control" id="reg-apellido" placeholder="Apellido">
                             </div>
                             <div class="form-group">
                                 <label for="signin-email" class="control-label sr-only">Email</label>
@@ -46,7 +46,7 @@
                             </div>
                             <div class="form-group">
                                 <label for="signin-email" class="control-label sr-only">usuario</label>
-                                <input type="email" class="form-control" id="reg-apellido" placeholder="Usuario">
+                                <input type="text" class="form-control" id="reg-apellido" placeholder="Usuario">
                             </div>
                             <div class="form-group">
                                 <label for="signin-password" class="control-label sr-only">Password</label>
