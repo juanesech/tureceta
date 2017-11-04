@@ -23,6 +23,6 @@ Route::get('/premium', function () {
     return view('premium');
 });
 
-Route::get('/video', function () {
-    return view('video');
+Route::get('/registro', function () {
+    return view('registro');
 });
