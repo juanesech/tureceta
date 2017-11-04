@@ -16,6 +16,10 @@
  * GENERAL STYLES
  ********************/
 
+#contenido-registro .logo{
+  margin-top: 4%;
+}
+
 #contenido-registro{
   margin-bottom: 8%;
 }
