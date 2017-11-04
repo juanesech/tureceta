@@ -16,6 +16,14 @@
  * GENERAL STYLES
  ********************/
 
+#mainRegistro{
+  width: 100%;
+}
+
+#registroHeaderLogo{
+  width: 40%;
+}
+
 #tutorials{
   width: 100%;
 }

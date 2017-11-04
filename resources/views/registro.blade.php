@@ -25,10 +25,10 @@
     <div class="vertical-align-wrap">
         <div class="vertical-align-middle">
             <div class="auth-box ">
-                <div class="left">
+                <div class="left" id="mainRegistro">
                     <div class="content">
                         <div class="header">
-                            <div class="logo"><img id="loginHeaderLogo" src="assets/img/letras.png" alt="Klorofil Logo"></div>
+                            <div class="logo"><img id="registroHeaderLogo" src="assets/img/letras.png" alt="Klorofil Logo"></div>
                             <p class="lead">Bienvenido de nuevo</p>
                         </div>
                         <form class="form-auth-small" action="index.php">
