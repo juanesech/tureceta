@@ -16,6 +16,10 @@
  * GENERAL STYLES
  ********************/
 
+#registro-email, registro-password{
+  width: 20%;
+}
+
 #mainRegistro{
   width: 100%;
 }

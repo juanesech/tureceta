@@ -29,23 +29,34 @@
                     <div class="content">
                         <div class="header">
                             <div class="logo"><img id="registroHeaderLogo" src="assets/img/letras.png" alt="Klorofil Logo"></div>
-                            <p class="lead">Bienvenido de nuevo</p>
+                            <p class="lead">Dejanos conocerte</p>
                         </div>
                         <form class="form-auth-small" action="index.php">
+                            <div class="form-group">
+                                <label for="signin-email" class="control-label sr-only">Nombre</label>
+                                <input type="email" class="form-control" id="reg-nombre" placeholder="Nombre">
+                            </div>
+                            <div class="form-group">
+                                <label for="signin-email" class="control-label sr-only">Apellido</label>
+                                <input type="email" class="form-control" id="reg-apellido" placeholder="Apellido">
+                            </div>
                             <div class="form-group">
                                 <label for="signin-email" class="control-label sr-only">Email</label>
                                 <input type="email" class="form-control" id="signin-email" placeholder="Correo">
                             </div>
                             <div class="form-group">
+                                <label for="signin-email" class="control-label sr-only">usuario</label>
+                                <input type="email" class="form-control" id="reg-apellido" placeholder="Usuario">
+                            </div>
+                            <div class="form-group">
                                 <label for="signin-password" class="control-label sr-only">Password</label>
                                 <input type="password" class="form-control" id="signin-password" placeholder="Contraseña">
                             </div>
-
-                            <button type="submit" class="btn btn-primary btn-lg btn-block">Ingresar</button>
+                            <button type="submit" class="btn btn-primary btn-lg btn-block">Registrarse</button>
 
                         </form>
                         <br>
-                        <a href="/registro">Registrarse</a>
+                        <a href="/login">Iniciar sesión</a>
                     </div>
                 </div>
                 <div class="clearfix"></div>
