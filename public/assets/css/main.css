@@ -16,6 +16,101 @@
  * GENERAL STYLES
  ********************/
 
+/********************
+ * Home
+ ********************/
+
+#buscar-premium{
+  width: 120%;
+  height: 50px;
+}
+
+#buscar-premium a{
+  font-size: 20px;
+  color: #ffffff;
+}
+
+#main-receta{
+  margin-right: 190px;
+}
+
+#tituloReceta{
+  font-size: x-large;
+  color:#F59322;
+}
+
+h3, h4{
+  color: #8e97a2;
+}
+
+#div-buscar{
+  display: flex;
+  width: inherit;
+}
+
+.crear, .btnCrear{
+  margin-top: 0.5%;
+  margin-bottom: 2%;
+}
+
+#busqueda{
+  padding-bottom: 3%;
+}
+
+#mainHome .row .col-md-6, #recetasTop, #navbar-menu-home {
+  float: right;
+  width: 40%;
+  display: inline-block;
+}
+
+#resultado{
+  float: left;
+  width: 66.6%;
+}
+
+#buscaIngredientes, #buscarHome{
+  width: 90%;
+  height: 40px;
+}
+
+#botonBuscar{
+  height: 40px;
+}
+
+#tooltext{
+  visibility: hidden;
+  opacity: 0;
+  width: auto;
+  background-color: #F59322;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  font-size: smaller;
+  margin: 3px;
+  transition: opacity 1s linear;
+}
+
+#tooltext:hover{
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 1s linear;
+}
+
+#resetasTop{
+  float: right;
+}
+
+#imagenTop{
+  width: 100%;
+}
+
+/**********************/
+
+
+
 #contenido-registro .logo{
   margin-top: 4%;
 }
@@ -37,7 +132,7 @@
   display: inline-block;
 }
 
-#registro-email, registro-password{
+#registro-email{
   width: 20%;
 }
 
@@ -78,7 +173,6 @@
 
 html {
     position: relative;
-    height: 100%;
     height: auto;
 }
 
@@ -93,9 +187,7 @@ body, .feed-title {
   font-size: 15px;
   color: #676a6d; }
 
-.lnr-home{
-    font-size: x-large;
-}
+
 
 
 a {
@@ -137,7 +229,7 @@ footer {
   -ms-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  width: 260px;
+  width: 190px;
   height: 100%;
   float: left;
   background-color: #2B333E;
@@ -150,7 +242,7 @@ footer {
   -ms-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  width: calc(100% - 260px);
+  width: calc(100% - 190px);
   left: 0;
   position: relative;
   float: right;
@@ -166,7 +258,7 @@ footer {
     padding-top: 130px; } }
 
 .layout-fullwidth #wrapper .sidebar {
-  left: -260px; }
+  left: -190px; }
 
 .layout-fullwidth #wrapper .main {
   width: 100%; }
@@ -256,7 +348,7 @@ html.fullscreen-bg #wrapper {
     .navbar-default .brand {
       display: none; } }
   @media screen and (max-width: 640px) {
-    .navbar-default #navbar-menu {
+    .navbar-default #navbar-menu #navbar-menu-home {
       float: right; } }
 
 .navbar-btn {
@@ -433,7 +525,7 @@ ul.notifications > li {
 .sidebar {
   z-index: 9; }
   .sidebar .nav > li > a {
-      margin-top: 10%;
+      margin-top: 1%;
     padding: 18px 30px;
     color: #AEB7C2;
     border-left: 5px solid transparent; }
@@ -477,9 +569,9 @@ ul.notifications > li {
     /* submenu */ }
     .sidebar .nav i {
       margin-right: 10px;
-      font-size: x-large; }
+      font-size: medium; }
     .sidebar .nav span {
-        font-size: x-large;
+        font-size: medium;
       -webkit-transition: all 0.3s ease-in-out;
       -moz-transition: all 0.3s ease-in-out;
       -ms-transition: all 0.3s ease-in-out;
@@ -680,7 +772,9 @@ ul.list-justify > li {
   background-color: #f7f7f7; }
 
 .btn-success {
+  text-align: center;
   background-color: #41B314;
+  display: -webkit-inline-box;
   border-color: #3ca512; }
   .btn-success:hover, .btn-success:focus {
     background-color: #3ca512;
@@ -727,7 +821,7 @@ fieldset[disabled] .btn {
         font-size: 14px; }
   .panel .panel-body {
     padding-top: 10px;
-    padding-bottom: 15px; }
+    padding-bottom: 10px; }
   .panel .panel-note {
     font-size: 13px;
     line-height: 2.6;

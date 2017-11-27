@@ -11,6 +11,8 @@
 
 namespace Symfony\Component\Console\Formatter;
 
+use Symfony\Component\Console\Exception\InvalidArgumentException;
+
 /**
  * @author Jean-François Simon <contact@jfsimon.fr>
  */
@@ -21,14 +23,8 @@ class OutputFormatterStyleStack
      */
     private $styles;
 
-    /**
-     * @var OutputFormatterStyleInterface
-     */
     private $emptyStyle;
 
-    /**
-     * @param OutputFormatterStyleInterface|null $emptyStyle
-     */
     public function __construct(OutputFormatterStyleInterface $emptyStyle = null)
     {
         $this->emptyStyle = $emptyStyle ?: new OutputFormatterStyle();
@@ -45,8 +41,6 @@ class OutputFormatterStyleStack
 
     /**
      * Pushes a style in the stack.
-     *
-     * @param OutputFormatterStyleInterface $style
      */
     public function push(OutputFormatterStyleInterface $style)
     {
@@ -56,11 +50,9 @@ class OutputFormatterStyleStack
     /**
      * Pops a style from the stack.
      *
-     * @param OutputFormatterStyleInterface|null $style
-     *
      * @return OutputFormatterStyleInterface
      *
-     * @throws \InvalidArgumentException When style tags incorrectly nested
+     * @throws InvalidArgumentException When style tags incorrectly nested
      */
     public function pop(OutputFormatterStyleInterface $style = null)
     {
@@ -80,7 +72,7 @@ class OutputFormatterStyleStack
             }
         }
 
-        throw new \InvalidArgumentException('Incorrectly nested style tag found.');
+        throw new InvalidArgumentException('Incorrectly nested style tag found.');
     }
 
     /**
@@ -98,8 +90,6 @@ class OutputFormatterStyleStack
     }
 
     /**
-     * @param OutputFormatterStyleInterface $emptyStyle
-     *
      * @return $this
      */
     public function setEmptyStyle(OutputFormatterStyleInterface $emptyStyle)
